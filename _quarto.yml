@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Md Al Amin"
+  image: "img/profile.png"
+  favicon: "img/favicon.png"
+  description: "Academic Website for Md Al Amin"
+
+  page-footer:
+    left: "&copy; Copyright 2026, Md Al Amin"
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+
+ # Top navigation bar
+  navbar:
+    left:
+      - text: "Home"
+        href: Home/Home.qmd
+      - text: "Education"
+        href: Educations/Educations.qmd
+      - text: "Projects"
+        href: projects/projects.qmd
+      - text: "Publications"
+        href: publications/publications.qmd
+      - text: "Teaching"
+        href: teaching/teaching.qmd
+      - text: "Blog"
+        href: blog/blog.qmd
+      - text: "Skills"
+        href: skills/skills.qmd
+      - text: "CV"
+        href: Educations/Educations.qmd
+    right: []
+    search: true
+        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

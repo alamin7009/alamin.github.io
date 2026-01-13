@@ -1,0 +1,19 @@
+---
+title: "Projects"
+description: "A showcase of my research projects, including breast cancer phytochemical inhibitors and GSK-3β inhibitors for neurological disorders."
+---
+<div style="text-align: justify;">
+
+## Project 1: Cheminformatics-based analysis identified Novel compounds from Nelumbo nucifera as potential inhibitors targeting PI3k/Akt/mTOR Pathway of HR+/HER2- subtype for Breast Cancer
+
+![Breast Cancer Project](images/project_1.png)
+
+This study uses computational approaches to identify phytochemical inhibitors from *Nelumbo nucifera* targeting the PI3K/Akt/mTOR pathway in PIK3CA-mutant breast cancer. Two lead compounds, **Anonaine** and **Dehydroaporheine**, showed strong binding, favorable pharmacokinetics, and high drug-likeness scores, highlighting their potential as targeted therapeutics. These findings lay the groundwork for experimental validation and the development of personalized breast cancer treatments.
+
+---
+
+## Project 2: Microbial biomolecule-driven identification of next-gen GSK-3β inhibitors for brain disorders
+
+![GSK-3β Project](images/project_2.png)
+
+This study investigates natural product–derived inhibitors of glycogen synthase kinase-3β (GSK-3β), a key enzyme implicated in neurological disorders such as Alzheimer’s, schizophrenia, and bipolar disorder. Using in-silico approaches—including molecular docking, ADMET analysis, MD simulations, MM-GBSA, DFT, PCA, and DCCM—three promising compounds were prioritized from 36,395 natural molecules. Among them, **Pinophilin C (CID_139587391)** demonstrated exceptional stability and strong binding to GSK-3β, highlighting its potential as a novel therapeutic candidate for neurological disorder management.

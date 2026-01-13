@@ -1,0 +1,26 @@
+---
+title: "Publications"
+subtitle: "List of publications"
+---
+<div style="text-align: justify;">
+
+## Peer-reviewed
+
+1.  Ahmed SF, Barua P, **Amin MA**\*, Tabassum R, Haque MME, Islam L, Hossain MS, Verma AK. Cheminformatics-based analysis identified Novel compounds from Nelumbo nucifera as potential inhibitors targeting PI3k/Akt/mTOR Pathway of HR+/HER2- subtype for Breast Cancer. Biochemical and Biophysical Research Communications. 2025; doi: <https://doi.org/10.1016/j.bbrc.2025.152953>
+
+2.  Islam L, Sarker H, **Amin MA**\*, Tabassum R, Nandi A, Islam T, Patwary MA, Ibnat F, Ahmed F, Siddiquee NH. Microbial biomolecule-driven identification of next-gen GSK-3β inhibitors for brain disorders. Computational Biology and Chemistry. 2025; doi: <https://doi.org/10.1016/j.compbiolchem.2025.108860>
+
+
+## Under Review
+
+
+## Conference
+
+### Poster Presentations (Presenting author underlined)
+
+1. Tabassum, R., Nandi, C., **<u>Amin MA**</u>\*, Haque, M.E., Haq, M.A., Uddin, M.N., Islam, A., & Rahman, N., Bioactivity Assessment of Phytochemicals from Crateva religiosa against Aedes aegypti with Insights into their Mode of Action via Computational Analysis*, 39th Annual Bangladesh Society for Microbiology (BSM) Conference, One Health and Microbiome category 
+
+
+2.	<u>Haque MME</u>, Tabassum, R., **Amin MA**\*, & Islam, Dr. Md. R., Cathelicidin LL-37, Defensins & Pep-RTYM:  Antimicrobial peptides that inhibit dengue virus type-2 (DENV) as observed from literature search, 5th International Conference on Biotechnology in Health and Agriculture (ICBHA), September 1-3, 2023 
+
+3.	**Amin MA**\*, <u>Tabassum, R.</u>, Haque MME, Nandi C, & Islam, Dr. Md. R. (2025). Cheminformatics-based analysis identified compounds as inhibitor of ACE2 receptor by interacting with seaweed metabolites. 2nd ISCB RSG Bangladesh CompBio Symposium 2025. <https://doi.org/10.5281/zenodo.14891694>

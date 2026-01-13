@@ -1,0 +1,491 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Md Al Amin",
+    "section": "",
+    "text": "Md. Al Amin is an undergraduate student of Biochemistry and Molecular Biology at Jagannath University, Bangladesh, with strong training in both experimental and computational biomedical research. He currently works as a Research Assistant at the Red-Green Research Centre, focusing on peptide-based drug design using computational biology approaches, while also contributing to departmental laboratory projects.\nIn his departmental research, he investigates Bangladeshi plant-derived phytochemicals as eco-friendly larvicidal alternatives to conventional insecticides. This work aligns with the One Health and microbiome framework, promoting safer and sustainable public health interventions, with applications including mosquito repellents and nanoparticle formulations.\nBeyond research, he has held leadership positions such as President of ISCB RSG Bangladesh and actively contributes to academic outreach and teaching programs.\nHe aims to integrate computational and experimental approaches in drug discovery and molecular biology, building a research career that bridges biology and computational science to advance translational biomedical innovation."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Read more about Quarto blogs here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\nOct 25, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\nOct 22, 2022\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Blog"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Author",
+    "section": "",
+    "text": "Twitter\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \n\n\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022\n\n\n\nI have developed X R packages, published Y papers.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Author",
+    "section": "",
+    "text": "University of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Author",
+    "section": "",
+    "text": "I have developed X R packages, published Y papers.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "blog/post-with-code/index.html",
+    "href": "blog/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "talks/index.html#rstats",
+    "href": "talks/index.html#rstats",
+    "title": "Talks",
+    "section": "",
+    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "talks/index.html#electronic-health-records",
+    "href": "talks/index.html#electronic-health-records",
+    "title": "Talks",
+    "section": "Electronic Health Records",
+    "text": "Electronic Health Records\n\n\n\n\n\n\n\n\n\n\nLearning from Hospital EHR data with R\n\n\nA 15 minutes introduction to hospital EHR data\n\n\n\n\n\nOct 28, 2019\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "projects/pkg_2/index.html",
+    "href": "projects/pkg_2/index.html",
+    "title": "pkg_2",
+    "section": "",
+    "text": "This package does this."
+  },
+  {
+    "objectID": "projects/pkg_1/index.html",
+    "href": "projects/pkg_1/index.html",
+    "title": "pkg_1",
+    "section": "",
+    "text": "This package does this."
+  },
+  {
+    "objectID": "projects/project_2/index.html",
+    "href": "projects/project_2/index.html",
+    "title": "project_2",
+    "section": "",
+    "text": "In this project I work on Machine Learning methods to predict in-hospital mortality."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Breast Cancer Project\n\n\nThis study uses computational approaches to identify phytochemical inhibitors from Nelumbo nucifera targeting the PI3K/Akt/mTOR pathway in PIK3CA-mutant breast cancer. Two lead compounds, Anonaine and Dehydroaporheine, showed strong binding, favorable pharmacokinetics, and high drug-likeness scores, highlighting their potential as targeted therapeutics. These findings lay the groundwork for experimental validation and the development of personalized breast cancer treatments.\n\n\n\n\n\n\n\nGSK-3β Project\n\n\nThis study investigates natural product–derived inhibitors of glycogen synthase kinase-3β (GSK-3β), a key enzyme implicated in neurological disorders such as Alzheimer’s, schizophrenia, and bipolar disorder. Using in-silico approaches—including molecular docking, ADMET analysis, MD simulations, MM-GBSA, DFT, PCA, and DCCM—three promising compounds were prioritized from 36,395 natural molecules. Among them, Pinophilin C (CID_139587391) demonstrated exceptional stability and strong binding to GSK-3β, highlighting its potential as a novel therapeutic candidate for neurological disorder management.",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects/index.html#grid-listing",
+    "href": "projects/index.html#grid-listing",
+    "title": "Projects",
+    "section": "",
+    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects/index.html#table-listing",
+    "href": "projects/index.html#table-listing",
+    "title": "Projects",
+    "section": "Table listing",
+    "text": "Table listing\nThis is an example of table listing.\n\nPackages\n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\npkg_1\n\n\n\n\n\n\n\n\n\npkg_2\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects/project_1/index.html",
+    "href": "projects/project_1/index.html",
+    "title": "project_1",
+    "section": "",
+    "text": "In this project I use EHR to explore the hospital transfers."
+  },
+  {
+    "objectID": "talks/talk_1/index.html",
+    "href": "talks/talk_1/index.html",
+    "title": "Building Website in R: Step by Step Introduction to blogdown",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "blog/welcome/index.html",
+    "href": "blog/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about_template.html",
+    "href": "about_template.html",
+    "title": "About this template",
+    "section": "",
+    "text": "TipAbout this template\n\n\n\nThis page contains some elaborated background information about your workshop, or the instructors.\n\n\nThis is to demonstrate how to make a drop-down page from the navigation bar.",
+    "crumbs": [
+      "About",
+      "This template"
+    ]
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Author",
+    "section": "",
+    "text": "Hello, I am Author.\nFeel free to edit the text and layout to make this website your own!\nThis is a template with side navigation. Read more about website navigation here.\nIn this template you can find examples of using listing (grid, table, default) in Projects, Talks, Blog. Read more about lists here."
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed SF, Barua P, Amin MA*, Tabassum R, Haque MME, Islam L, Hossain MS, Verma AK. Cheminformatics-based analysis identified Novel compounds from Nelumbo nucifera as potential inhibitors targeting PI3k/Akt/mTOR Pathway of HR+/HER2- subtype for Breast Cancer. Biochemical and Biophysical Research Communications. 2025; doi: https://doi.org/10.1016/j.bbrc.2025.152953\nIslam L, Sarker H, Amin MA*, Tabassum R, Nandi A, Islam T, Patwary MA, Ibnat F, Ahmed F, Siddiquee NH. Microbial biomolecule-driven identification of next-gen GSK-3β inhibitors for brain disorders. Computational Biology and Chemistry. 2025; doi: https://doi.org/10.1016/j.compbiolchem.2025.108860\n\n\n\n\n\n\n\n\n\n\nTabassum, R., Nandi, C., Amin MA*, Haque, M.E., Haq, M.A., Uddin, M.N., Islam, A., & Rahman, N., Bioactivity Assessment of Phytochemicals from Crateva religiosa against Aedes aegypti with Insights into their Mode of Action via Computational Analysis*, 39th Annual Bangladesh Society for Microbiology (BSM) Conference, One Health and Microbiome category\nHaque MME, Tabassum, R., Amin MA*, & Islam, Dr. Md. R., Cathelicidin LL-37, Defensins & Pep-RTYM: Antimicrobial peptides that inhibit dengue virus type-2 (DENV) as observed from literature search, 5th International Conference on Biotechnology in Health and Agriculture (ICBHA), September 1-3, 2023\nAmin MA*, Tabassum, R., Haque MME, Nandi C, & Islam, Dr. Md. R. (2025). Cheminformatics-based analysis identified compounds as inhibitor of ACE2 receptor by interacting with seaweed metabolites. 2nd ISCB RSG Bangladesh CompBio Symposium 2025. https://doi.org/10.5281/zenodo.14891694",
+    "crumbs": [
+      "Publication"
+    ]
+  },
+  {
+    "objectID": "publications/index.html#peer-reviewed",
+    "href": "publications/index.html#peer-reviewed",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed SF, Barua P, Amin MA*, Tabassum R, Haque MME, Islam L, Hossain MS, Verma AK. Cheminformatics-based analysis identified Novel compounds from Nelumbo nucifera as potential inhibitors targeting PI3k/Akt/mTOR Pathway of HR+/HER2- subtype for Breast Cancer. Biochemical and Biophysical Research Communications. 2025; doi: https://doi.org/10.1016/j.bbrc.2025.152953\nIslam L, Sarker H, Amin MA*, Tabassum R, Nandi A, Islam T, Patwary MA, Ibnat F, Ahmed F, Siddiquee NH. Microbial biomolecule-driven identification of next-gen GSK-3β inhibitors for brain disorders. Computational Biology and Chemistry. 2025; doi: https://doi.org/10.1016/j.compbiolchem.2025.108860",
+    "crumbs": [
+      "Publication"
+    ]
+  },
+  {
+    "objectID": "publications/index.html#under-review",
+    "href": "publications/index.html#under-review",
+    "title": "Publications",
+    "section": "Under Review",
+    "text": "Under Review",
+    "crumbs": [
+      "Publication"
+    ]
+  },
+  {
+    "objectID": "publications/index.html#conference",
+    "href": "publications/index.html#conference",
+    "title": "Publications",
+    "section": "",
+    "text": "Tabassum, R., Nandi, C., Amin MA*, Haque, M.E., Haq, M.A., Uddin, M.N., Islam, A., & Rahman, N., Bioactivity Assessment of Phytochemicals from Crateva religiosa against Aedes aegypti with Insights into their Mode of Action via Computational Analysis*, 39th Annual Bangladesh Society for Microbiology (BSM) Conference, One Health and Microbiome category\nHaque MME, Tabassum, R., Amin MA*, & Islam, Dr. Md. R., Cathelicidin LL-37, Defensins & Pep-RTYM: Antimicrobial peptides that inhibit dengue virus type-2 (DENV) as observed from literature search, 5th International Conference on Biotechnology in Health and Agriculture (ICBHA), September 1-3, 2023\nAmin MA*, Tabassum, R., Haque MME, Nandi C, & Islam, Dr. Md. R. (2025). Cheminformatics-based analysis identified compounds as inhibitor of ACE2 receptor by interacting with seaweed metabolites. 2nd ISCB RSG Bangladesh CompBio Symposium 2025. https://doi.org/10.5281/zenodo.14891694",
+    "crumbs": [
+      "Publication"
+    ]
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Read more about Quarto blogs here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nOct 25, 2022\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nOct 22, 2022\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Blog"
+    ]
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024,   Fall 2023\nClass 1 introduction.",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "teaching/index.html#class-1",
+    "href": "teaching/index.html#class-1",
+    "title": "Teaching",
+    "section": "",
+    "text": "Fall 2024,   Fall 2023\nClass 1 introduction.",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "teaching/index.html#class-2",
+    "href": "teaching/index.html#class-2",
+    "title": "Teaching",
+    "section": "Class 2",
+    "text": "Class 2\n\n\n\n\n\nSpring 2025,   Fall 2023\nClass 2 introduction.",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "teaching/index.html#class-3",
+    "href": "teaching/index.html#class-3",
+    "title": "Teaching",
+    "section": "Class 3",
+    "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction.",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills",
+    "section": "",
+    "text": "Molecular Docking: Gaussian 09, HADDOCK, AutoDock Vina\nMolecular Dynamics: Desmond, YASARA\nVisualization: PyMOL, Discovery Studio, Chimera, ChimeraX\nBioinformatics: BLAST, MEGA\nProgramming: Python, R\nGraphics: Canva Pro, Adobe Illustrator\nData Analysis: Origin Pro\nOffice Tools: MS Office, PowerPoint"
+  },
+  {
+    "objectID": "skills.html#software-programming",
+    "href": "skills.html#software-programming",
+    "title": "Skills",
+    "section": "",
+    "text": "Molecular Docking: Gaussian 09, HADDOCK, AutoDock Vina\nMolecular Dynamics: Desmond, YASARA\nVisualization: PyMOL, Discovery Studio, Chimera, ChimeraX\nBioinformatics: BLAST, MEGA\nProgramming: Python, R\nGraphics: Canva Pro, Adobe Illustrator\nData Analysis: Origin Pro\nOffice Tools: MS Office, PowerPoint"
+  },
+  {
+    "objectID": "skills.html#experimental-skills",
+    "href": "skills.html#experimental-skills",
+    "title": "Skills",
+    "section": "Experimental Skills",
+    "text": "Experimental Skills\n\nGenomic DNA extraction & quantification\nConventional PCR & Real-time PCR\nGel electrophoresis\nELISA & Rapid Diagnostic Tests (RDT)"
+  },
+  {
+    "objectID": "projects/index.html#project-1-cheminformatics-based-analysis-identified-novel-compounds-from-nelumbo-nucifera-as-potential-inhibitors-targeting-pi3kaktmtor-pathway-of-hrher2--subtype-for-breast-cancer",
+    "href": "projects/index.html#project-1-cheminformatics-based-analysis-identified-novel-compounds-from-nelumbo-nucifera-as-potential-inhibitors-targeting-pi3kaktmtor-pathway-of-hrher2--subtype-for-breast-cancer",
+    "title": "Projects",
+    "section": "",
+    "text": "Breast Cancer Project\n\n\nThis study uses computational approaches to identify phytochemical inhibitors from Nelumbo nucifera targeting the PI3K/Akt/mTOR pathway in PIK3CA-mutant breast cancer. Two lead compounds, Anonaine and Dehydroaporheine, showed strong binding, favorable pharmacokinetics, and high drug-likeness scores, highlighting their potential as targeted therapeutics. These findings lay the groundwork for experimental validation and the development of personalized breast cancer treatments.",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects/index.html#project-2-microbial-biomolecule-driven-identification-of-next-gen-gsk-3β-inhibitors-for-brain-disorders",
+    "href": "projects/index.html#project-2-microbial-biomolecule-driven-identification-of-next-gen-gsk-3β-inhibitors-for-brain-disorders",
+    "title": "Projects",
+    "section": "",
+    "text": "GSK-3β Project\n\n\nThis study investigates natural product–derived inhibitors of glycogen synthase kinase-3β (GSK-3β), a key enzyme implicated in neurological disorders such as Alzheimer’s, schizophrenia, and bipolar disorder. Using in-silico approaches—including molecular docking, ADMET analysis, MD simulations, MM-GBSA, DFT, PCA, and DCCM—three promising compounds were prioritized from 36,395 natural molecules. Among them, Pinophilin C (CID_139587391) demonstrated exceptional stability and strong binding to GSK-3β, highlighting its potential as a novel therapeutic candidate for neurological disorder management.",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "about/about.html",
+    "href": "about/about.html",
+    "title": "Md Al Amin",
+    "section": "",
+    "text": "Twitter\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \n\n\nJagannath University, Dhaka, Bangladesh\nBachelor of Science in Biochemistry and Molecular Biology | January 2020 – Present\nCGPA: 3.40 / 4.00 (Up to 3rd Year 2nd Semester)\nSelected Courses: Biochemistry, Molecular Biology, Clinical Biochemistry, Microbiology, Cell Biology, Biostatistics\n\nGovt. Science College, Dhaka, Bangladesh\nHigher Secondary Certificate (Science Background) | June 2017 – April 2020\nGPA: 5.0 / 5.0\n\nDebidwar Reaz Uddin Pilot Model High School, Debidwar, Cumilla\nSecondary School Certificate (Science Background) | January 2015 – March 2017\nGPA: 5.0 / 5.0",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about/about.html#education",
+    "href": "about/about.html#education",
+    "title": "Md Al Amin",
+    "section": "",
+    "text": "Jagannath University, Dhaka, Bangladesh\nBachelor of Science in Biochemistry and Molecular Biology | January 2020 – Present\nCGPA: 3.40 / 4.00 (Up to 3rd Year 2nd Semester)\nSelected Courses: Biochemistry, Molecular Biology, Clinical Biochemistry, Microbiology, Cell Biology, Biostatistics\n\nGovt. Science College, Dhaka, Bangladesh\nHigher Secondary Certificate (Science Background) | June 2017 – April 2020\nGPA: 5.0 / 5.0\n\nDebidwar Reaz Uddin Pilot Model High School, Debidwar, Cumilla\nSecondary School Certificate (Science Background) | January 2015 – March 2017\nGPA: 5.0 / 5.0",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about/about.html#experience",
+    "href": "about/about.html#experience",
+    "title": "Author",
+    "section": "",
+    "text": "I have developed X R packages, published Y papers.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "talks/talks.html",
+    "href": "talks/talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "No matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "talks/talks.html#rstats",
+    "href": "talks/talks.html#rstats",
+    "title": "Talks",
+    "section": "",
+    "text": "No matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "talks/talks.html#electronic-health-records",
+    "href": "talks/talks.html#electronic-health-records",
+    "title": "Talks",
+    "section": "Electronic Health Records",
+    "text": "Electronic Health Records\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "publications/publications.html",
+    "href": "publications/publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed SF, Barua P, Amin MA*, Tabassum R, Haque MME, Islam L, Hossain MS, Verma AK. Cheminformatics-based analysis identified Novel compounds from Nelumbo nucifera as potential inhibitors targeting PI3k/Akt/mTOR Pathway of HR+/HER2- subtype for Breast Cancer. Biochemical and Biophysical Research Communications. 2025; doi: https://doi.org/10.1016/j.bbrc.2025.152953\nIslam L, Sarker H, Amin MA*, Tabassum R, Nandi A, Islam T, Patwary MA, Ibnat F, Ahmed F, Siddiquee NH. Microbial biomolecule-driven identification of next-gen GSK-3β inhibitors for brain disorders. Computational Biology and Chemistry. 2025; doi: https://doi.org/10.1016/j.compbiolchem.2025.108860\n\n\n\n\n\n\n\n\n\n\nTabassum, R., Nandi, C., Amin MA*, Haque, M.E., Haq, M.A., Uddin, M.N., Islam, A., & Rahman, N., Bioactivity Assessment of Phytochemicals from Crateva religiosa against Aedes aegypti with Insights into their Mode of Action via Computational Analysis*, 39th Annual Bangladesh Society for Microbiology (BSM) Conference, One Health and Microbiome category\nHaque MME, Tabassum, R., Amin MA*, & Islam, Dr. Md. R., Cathelicidin LL-37, Defensins & Pep-RTYM: Antimicrobial peptides that inhibit dengue virus type-2 (DENV) as observed from literature search, 5th International Conference on Biotechnology in Health and Agriculture (ICBHA), September 1-3, 2023\nAmin MA*, Tabassum, R., Haque MME, Nandi C, & Islam, Dr. Md. R. (2025). Cheminformatics-based analysis identified compounds as inhibitor of ACE2 receptor by interacting with seaweed metabolites. 2nd ISCB RSG Bangladesh CompBio Symposium 2025. https://doi.org/10.5281/zenodo.14891694"
+  },
+  {
+    "objectID": "publications/publications.html#peer-reviewed",
+    "href": "publications/publications.html#peer-reviewed",
+    "title": "Publications",
+    "section": "",
+    "text": "Ahmed SF, Barua P, Amin MA*, Tabassum R, Haque MME, Islam L, Hossain MS, Verma AK. Cheminformatics-based analysis identified Novel compounds from Nelumbo nucifera as potential inhibitors targeting PI3k/Akt/mTOR Pathway of HR+/HER2- subtype for Breast Cancer. Biochemical and Biophysical Research Communications. 2025; doi: https://doi.org/10.1016/j.bbrc.2025.152953\nIslam L, Sarker H, Amin MA*, Tabassum R, Nandi A, Islam T, Patwary MA, Ibnat F, Ahmed F, Siddiquee NH. Microbial biomolecule-driven identification of next-gen GSK-3β inhibitors for brain disorders. Computational Biology and Chemistry. 2025; doi: https://doi.org/10.1016/j.compbiolchem.2025.108860"
+  },
+  {
+    "objectID": "publications/publications.html#conference",
+    "href": "publications/publications.html#conference",
+    "title": "Publications",
+    "section": "",
+    "text": "Tabassum, R., Nandi, C., Amin MA*, Haque, M.E., Haq, M.A., Uddin, M.N., Islam, A., & Rahman, N., Bioactivity Assessment of Phytochemicals from Crateva religiosa against Aedes aegypti with Insights into their Mode of Action via Computational Analysis*, 39th Annual Bangladesh Society for Microbiology (BSM) Conference, One Health and Microbiome category\nHaque MME, Tabassum, R., Amin MA*, & Islam, Dr. Md. R., Cathelicidin LL-37, Defensins & Pep-RTYM: Antimicrobial peptides that inhibit dengue virus type-2 (DENV) as observed from literature search, 5th International Conference on Biotechnology in Health and Agriculture (ICBHA), September 1-3, 2023\nAmin MA*, Tabassum, R., Haque MME, Nandi C, & Islam, Dr. Md. R. (2025). Cheminformatics-based analysis identified compounds as inhibitor of ACE2 receptor by interacting with seaweed metabolites. 2nd ISCB RSG Bangladesh CompBio Symposium 2025. https://doi.org/10.5281/zenodo.14891694"
+  },
+  {
+    "objectID": "blog/blog.html",
+    "href": "blog/blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Read more about Quarto blogs here.\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Blog"
+    ]
+  },
+  {
+    "objectID": "projects/projects.html",
+    "href": "projects/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Breast Cancer Project\n\n\nThis study uses computational approaches to identify phytochemical inhibitors from Nelumbo nucifera targeting the PI3K/Akt/mTOR pathway in PIK3CA-mutant breast cancer. Two lead compounds, Anonaine and Dehydroaporheine, showed strong binding, favorable pharmacokinetics, and high drug-likeness scores, highlighting their potential as targeted therapeutics. These findings lay the groundwork for experimental validation and the development of personalized breast cancer treatments.\n\n\n\n\n\n\n\nGSK-3β Project\n\n\nThis study investigates natural product–derived inhibitors of glycogen synthase kinase-3β (GSK-3β), a key enzyme implicated in neurological disorders such as Alzheimer’s, schizophrenia, and bipolar disorder. Using in-silico approaches—including molecular docking, ADMET analysis, MD simulations, MM-GBSA, DFT, PCA, and DCCM—three promising compounds were prioritized from 36,395 natural molecules. Among them, Pinophilin C (CID_139587391) demonstrated exceptional stability and strong binding to GSK-3β, highlighting its potential as a novel therapeutic candidate for neurological disorder management."
+  },
+  {
+    "objectID": "projects/projects.html#project-1-cheminformatics-based-analysis-identified-novel-compounds-from-nelumbo-nucifera-as-potential-inhibitors-targeting-pi3kaktmtor-pathway-of-hrher2--subtype-for-breast-cancer",
+    "href": "projects/projects.html#project-1-cheminformatics-based-analysis-identified-novel-compounds-from-nelumbo-nucifera-as-potential-inhibitors-targeting-pi3kaktmtor-pathway-of-hrher2--subtype-for-breast-cancer",
+    "title": "Projects",
+    "section": "",
+    "text": "Breast Cancer Project\n\n\nThis study uses computational approaches to identify phytochemical inhibitors from Nelumbo nucifera targeting the PI3K/Akt/mTOR pathway in PIK3CA-mutant breast cancer. Two lead compounds, Anonaine and Dehydroaporheine, showed strong binding, favorable pharmacokinetics, and high drug-likeness scores, highlighting their potential as targeted therapeutics. These findings lay the groundwork for experimental validation and the development of personalized breast cancer treatments."
+  },
+  {
+    "objectID": "projects/projects.html#project-2-microbial-biomolecule-driven-identification-of-next-gen-gsk-3β-inhibitors-for-brain-disorders",
+    "href": "projects/projects.html#project-2-microbial-biomolecule-driven-identification-of-next-gen-gsk-3β-inhibitors-for-brain-disorders",
+    "title": "Projects",
+    "section": "",
+    "text": "GSK-3β Project\n\n\nThis study investigates natural product–derived inhibitors of glycogen synthase kinase-3β (GSK-3β), a key enzyme implicated in neurological disorders such as Alzheimer’s, schizophrenia, and bipolar disorder. Using in-silico approaches—including molecular docking, ADMET analysis, MD simulations, MM-GBSA, DFT, PCA, and DCCM—three promising compounds were prioritized from 36,395 natural molecules. Among them, Pinophilin C (CID_139587391) demonstrated exceptional stability and strong binding to GSK-3β, highlighting its potential as a novel therapeutic candidate for neurological disorder management."
+  },
+  {
+    "objectID": "skills/skills.html",
+    "href": "skills/skills.html",
+    "title": "Skills",
+    "section": "",
+    "text": "Molecular Docking: Gaussian 09, HADDOCK, AutoDock Vina\nMolecular Dynamics: Desmond, YASARA\nVisualization: PyMOL, Discovery Studio, Chimera, ChimeraX\nBioinformatics: BLAST, MEGA\nProgramming: Python, R\nGraphics: Canva Pro, Adobe Illustrator\nData Analysis: Origin Pro\nOffice Tools: MS Office, PowerPoint",
+    "crumbs": [
+      "Skills"
+    ]
+  },
+  {
+    "objectID": "skills/skills.html#software-programming",
+    "href": "skills/skills.html#software-programming",
+    "title": "Skills",
+    "section": "",
+    "text": "Molecular Docking: Gaussian 09, HADDOCK, AutoDock Vina\nMolecular Dynamics: Desmond, YASARA\nVisualization: PyMOL, Discovery Studio, Chimera, ChimeraX\nBioinformatics: BLAST, MEGA\nProgramming: Python, R\nGraphics: Canva Pro, Adobe Illustrator\nData Analysis: Origin Pro\nOffice Tools: MS Office, PowerPoint",
+    "crumbs": [
+      "Skills"
+    ]
+  },
+  {
+    "objectID": "skills/skills.html#experimental-skills",
+    "href": "skills/skills.html#experimental-skills",
+    "title": "Skills",
+    "section": "Experimental Skills",
+    "text": "Experimental Skills\n\nGenomic DNA extraction & quantification\nConventional PCR & Real-time PCR\nGel electrophoresis\nELISA & Rapid Diagnostic Tests (RDT)",
+    "crumbs": [
+      "Skills"
+    ]
+  },
+  {
+    "objectID": "Educations/Educations.html",
+    "href": "Educations/Educations.html",
+    "title": "Educations",
+    "section": "",
+    "text": "Jagannath University, Dhaka, Bangladesh\nBachelor of Science in Biochemistry and Molecular Biology | January 2020 – Present\nCGPA: 3.40 / 4.00 (Up to 3rd Year 2nd Semester)\nSelected Courses: Biochemistry, Molecular Biology, Clinical Biochemistry, Microbiology, Cell Biology, Biostatistics\n\nGovt. Science College, Dhaka, Bangladesh\nHigher Secondary Certificate (Science Background) | June 2017 – April 2020\nGPA: 5.0 / 5.0\n\nDebidwar Reaz Uddin Pilot Model High School, Debidwar, Cumilla\nSecondary School Certificate (Science Background) | January 2015 – March 2017\nGPA: 5.0 / 5.0"
+  },
+  {
+    "objectID": "Educations/Educations.html#education",
+    "href": "Educations/Educations.html#education",
+    "title": "Educations",
+    "section": "",
+    "text": "Jagannath University, Dhaka, Bangladesh\nBachelor of Science in Biochemistry and Molecular Biology | January 2020 – Present\nCGPA: 3.40 / 4.00 (Up to 3rd Year 2nd Semester)\nSelected Courses: Biochemistry, Molecular Biology, Clinical Biochemistry, Microbiology, Cell Biology, Biostatistics\n\nGovt. Science College, Dhaka, Bangladesh\nHigher Secondary Certificate (Science Background) | June 2017 – April 2020\nGPA: 5.0 / 5.0\n\nDebidwar Reaz Uddin Pilot Model High School, Debidwar, Cumilla\nSecondary School Certificate (Science Background) | January 2015 – March 2017\nGPA: 5.0 / 5.0"
+  },
+  {
+    "objectID": "Home/Home.html",
+    "href": "Home/Home.html",
+    "title": "Md Al Amin",
+    "section": "",
+    "text": "Md. Al Amin is an undergraduate student of Biochemistry and Molecular Biology at Jagannath University, Bangladesh, with strong training in both experimental and computational biomedical research. He currently works as a Research Assistant at the Red-Green Research Centre, focusing on peptide-based drug design using computational biology approaches, while also contributing to departmental laboratory projects.\nIn his departmental research, he investigates Bangladeshi plant-derived phytochemicals as eco-friendly larvicidal alternatives to conventional insecticides. This work aligns with the One Health and microbiome framework, promoting safer and sustainable public health interventions, with applications including mosquito repellents and nanoparticle formulations.\nBeyond research, he has held leadership positions such as President of ISCB RSG Bangladesh and actively contributes to academic outreach and teaching programs.\nHe aims to integrate computational and experimental approaches in drug discovery and molecular biology, building a research career that bridges biology and computational science to advance translational biomedical innovation."
+  },
+  {
+    "objectID": "Home/Home.html#education",
+    "href": "Home/Home.html#education",
+    "title": "Md Al Amin",
+    "section": "",
+    "text": "Jagannath University, Dhaka, Bangladesh\nBachelor of Science in Biochemistry and Molecular Biology | January 2020 – Present\nCGPA: 3.40 / 4.00 (Up to 3rd Year 2nd Semester)\nSelected Courses: Biochemistry, Molecular Biology, Clinical Biochemistry, Microbiology, Cell Biology, Biostatistics\n\nGovt. Science College, Dhaka, Bangladesh\nHigher Secondary Certificate (Science Background) | June 2017 – April 2020\nGPA: 5.0 / 5.0\n\nDebidwar Reaz Uddin Pilot Model High School, Debidwar, Cumilla\nSecondary School Certificate (Science Background) | January 2015 – March 2017\nGPA: 5.0 / 5.0"
+  }
+]

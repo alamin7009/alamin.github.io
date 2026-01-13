@@ -1,0 +1,28 @@
+---
+title: "skills"
+format: html
+---
+
+---
+title: "Skills"
+---
+
+## Software & Programming
+
+-   **Molecular Docking:** Gaussian 09, HADDOCK, AutoDock Vina
+-   **Molecular Dynamics:** Desmond, YASARA
+-   **Visualization:** PyMOL, Discovery Studio, Chimera, ChimeraX
+-   **Bioinformatics:** BLAST, MEGA
+-   **Programming:** Python, R
+-   **Graphics:** Canva Pro, Adobe Illustrator
+-   **Data Analysis:** Origin Pro
+-   **Office Tools:** MS Office, PowerPoint
+
+------------------------------------------------------------------------
+
+## Experimental Skills
+
+-   Genomic DNA extraction & quantification
+-   Conventional PCR & Real-time PCR
+-   Gel electrophoresis
+-   ELISA & Rapid Diagnostic Tests (RDT)

@@ -1,2 +1,2 @@
-# alamin.github.io
-This repo is designed for personal website
+# academic-website-template
+Template for Academic Website

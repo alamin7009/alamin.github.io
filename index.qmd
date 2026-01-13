@@ -1,0 +1,40 @@
+---
+title: "Md Al Amin"
+image: img/profile.png
+subtitle: "<b>Researcher, Educator & Entrepreneur</b>"
+
+about:
+
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: envelope
+      href: mailto:alamin.jnu.bmb@gmail.com
+      target: _blank
+    - icon: twitter
+      href: https://x.com/alamin_1037
+      target: _blank
+    - icon: linkedin
+      href: https://linkedin.com/in/alaamin/
+      target: _blank
+    - icon: github
+      href: https://github.com/alamin7009
+      target: _blank
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0009-0002-4236-9212
+      target: _blank
+    - text: "{{< ai google-scholar >}}"
+      href: https://orcid.org/0009-0002-4236-9212
+      target: _blank
+---
+
+::: {#hero-heading}
+Md. Al Amin is an undergraduate student of Biochemistry and Molecular Biology at [Jagannath University](https://jnu.ac.bd/department/portal/biochemistry), Bangladesh, with strong training in both experimental and computational biomedical research. He currently works as a Research Assistant at the [Red-Green Research Centre](), focusing on peptide-based drug design using computational biology approaches, while also contributing to departmental laboratory projects.
+
+In his departmental research, he investigates Bangladeshi plant-derived phytochemicals as eco-friendly larvicidal alternatives to conventional insecticides. This work aligns with the One Health and microbiome framework, promoting safer and sustainable public health interventions, with applications including mosquito repellents and nanoparticle formulations.
+
+Beyond research, he has held leadership positions such as President of ISCB RSG Bangladesh and actively contributes to academic outreach and teaching programs.
+
+He aims to integrate computational and experimental approaches in drug discovery and molecular biology, building a research career that bridges biology and computational science to advance translational biomedical innovation.
+:::
