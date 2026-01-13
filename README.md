@@ -1,2 +1,2 @@
 # alamin.github.io
-This repo is designed for personal website
+Academic Website for Md Al Amin
